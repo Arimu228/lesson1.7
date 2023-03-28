@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lesson1.7</string>
+    <string name="submit">submit</string>
+    <string name="random">random</string>
+    <string name="invalid">Text is not valid</string>
+    <string name="valid">valid name</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginTop_et">30dp</dimen>
+    <dimen name="marginTop_btn">30dp</dimen>
+    <dimen name="MarginTop_ic">50dp</dimen>
+</resources>
